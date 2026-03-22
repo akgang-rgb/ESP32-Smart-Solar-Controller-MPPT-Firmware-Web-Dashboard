@@ -1,0 +1,38 @@
+Solar Controller — Proprietary Non-Commercial License
+Copyright (c) 2025 F.B <fraise_prieres9v@icloud.com> 
+Permission is hereby granted, free of charge, to any individual obtaining a copy
+of this software and associated documentation files (the "Software"), to USE and
+MODIFY the Software for PERSONAL or EDUCATIONAL purposes only, subject to the
+following conditions:
+
+1. NO REDISTRIBUTION
+   The Software, in whole or in part, original or modified, may NOT be
+   redistributed, shared, published, or otherwise distributed to any third party
+   in any form or by any means, without the express written permission of the
+   copyright holder.
+
+2. NON-COMMERCIAL USE ONLY
+   The Software may NOT be sold, sublicensed, rented, or otherwise used for
+   commercial purposes without the express written permission of the copyright
+   holder. This includes but is not limited to: selling pre-flashed hardware,
+   offering the Software as a paid service, or bundling it in a commercial product.
+
+3. EXCLUSIVE DISTRIBUTION RIGHT
+   The right to distribute, publish, or sell the Software in any form is reserved
+   exclusively to the copyright holder: F.B <fraise_prieres9v@icloud.com>.
+
+4. ATTRIBUTION
+   The above copyright notice and this permission notice shall be retained in any
+   copy or modification of the Software used privately.
+
+5. COMMERCIAL LICENSING
+   For any use not covered by this license (distribution, commercial use, resale,
+   integration in a product), please contact: fraise_prieres9v@icloud.com
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
